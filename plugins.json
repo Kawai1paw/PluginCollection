@@ -1055,5 +1055,13 @@
 		"desc": "Adds items that give potion effects",
 		"jarName": "SimpleDrugs.jar",
 		"configName": "SimpleDrugs"
-	}
-]
+	},
+	{
+			"name": "Worldedit",
+			"desc": "Build tools",
+			"jarName": "Worldedit.jar",
+			"configname": "Worldedit",
+		}
+	[
+	
+
